@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MVIPractice</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment2_title">Fragment2\n</string>
 </resources>
